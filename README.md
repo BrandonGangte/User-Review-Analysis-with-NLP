@@ -3,4 +3,5 @@ This is my b.tech final year project that analyzes the reviews of a product/even
 
 Links for the dataset use:
 1)Electronics products - https://www.kaggle.com/PromptCloudHQ/amazon-reviews-unlocked-mobile-phones
+
 2)Food products - https://www.kaggle.com/snap/amazon-fine-food-reviews
