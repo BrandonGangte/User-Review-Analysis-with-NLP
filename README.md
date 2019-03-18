@@ -6,3 +6,5 @@ Links for the datasets used:
 1)Electronics products - https://www.kaggle.com/PromptCloudHQ/amazon-reviews-unlocked-mobile-phones
 
 2)Food products - https://www.kaggle.com/snap/amazon-fine-food-reviews
+
+Accuracy = 93%
