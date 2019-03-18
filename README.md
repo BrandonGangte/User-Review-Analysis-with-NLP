@@ -7,4 +7,4 @@ Links for the datasets used:
 
 2)Food products - https://www.kaggle.com/snap/amazon-fine-food-reviews
 
-Accuracy = 93%
+Overall accuracy = 93%
